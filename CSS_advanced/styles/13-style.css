@@ -36,7 +36,6 @@ body {
     line-height: var(--line-height-base);
 }
 
-/* Target only links with an href attribute */
 a[href] {
     color: var(--text-color);
     text-decoration: none;
